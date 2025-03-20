@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "firstButton.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
